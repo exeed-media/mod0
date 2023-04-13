@@ -84,7 +84,7 @@ The <span class="vocab">Terminal</span> is a program we use to give <span class=
 
 Your Terminal will look something like this:
 
-<img src="./assets/amy_terminal.png" alt="Screenshot of Terminal window">
+<img src="https://user-images.githubusercontent.com/412339/231875553-b9c7d58c-6cf0-4740-b087-609054a5c346.png" alt="Screenshot of Terminal window">
 
 <div class="s-card">
   <h3>Independent Research</h3>
