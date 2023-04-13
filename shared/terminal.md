@@ -134,8 +134,8 @@ When you open the Terminal, you will be in your home directory. Just like you ca
 To figure out where you are in your computer's directory structure, run `pwd`. This command stands for "print working directory".
 
 ```
-timo@Tims-MacBook-Pro:~$ pwd
-/Users/timo
+dan@Dans-MacBook-Pro:~$ pwd
+/Users/dan
 ```
 
 You'll see the path from the root of your computer to your current directory.
@@ -155,8 +155,8 @@ In the Terminal, we can make new directories with the `mkdir` command. Unlike `p
 The following commands will create two directories called `work_spreadsheets` and `latest_projects`:
 
 ```
-timo@Tims-MacBook-Pro:~$ mkdir work_spreadsheets
-timo@Tims-MacBook-Pro:~$ mkdir latest_projects
+dan@Dans-MacBook-Pro:~$ mkdir work_spreadsheets
+dan@Dans-MacBook-Pro:~$ mkdir latest_projects
 ```
 
 You won't get any confirmation that your directory was created; you'll just see a new command prompt ready for your next command.
@@ -177,14 +177,14 @@ To see what is inside of a directory, we use the `ls` command, which is short fo
   <div>
     <p>If I was in the essays directory and I ran <code>ls</code>, this is what I'd see:</p>
 
-  <pre>timo@Tims-MacBook-Pro:~/essays$ ls
+  <pre>dan@Dans-MacBook-Pro:~/essays$ ls
   book_projects    life_lessons.docx    notes.docx</pre>
 
   <p>You will only see the directories and files that are <em>directly</em> inside of the current working directory. You will not see any directories or files that are nested down the path. This is why we do not see the contents of <code>book_projects</code> listed.</p>
 
   <p>Now assume we're in the <code>book_projects</code> directory. If I run <code>ls</code>, I'll see this:</p>
 
-  <pre>timo@Tims-MacBook-Pro:~/essays/book_projects$ ls
+  <pre>dan@Dans-MacBook-Pro:~/essays/book_projects$ ls
   literary_analysis.docx    book_report.docx</pre>
 
   </div>
@@ -207,8 +207,8 @@ You can move into a directory using the `cd` command, which stands for "change d
   <div>
     <p>For example, if I was in the <code>essays</code> directory and wanted to move into the <code>book_projects</code> directory to see my documents, I would run the following:</p>
 <pre>
-timo@Tims-MacBook-Pro:~/essays$ cd book_projects
-timo@Tims-MacBook-Pro:~/essays/book_projects$
+dan@Dans-MacBook-Pro:~/essays$ cd book_projects
+dan@Dans-MacBook-Pro:~/essays/book_projects$
 </pre>
 
 <p>We see that the second command prompt now lists the path of new directory that we're in.</p>
@@ -216,7 +216,7 @@ timo@Tims-MacBook-Pro:~/essays/book_projects$
 <p>From there, if I used the <code>ls</code> command, I would be able to see the contents of my folder:</p>
 
 <pre>
-timo@Tims-MacBook-Pro:~/essays/book_projects$ ls
+dan@Dans-MacBook-Pro:~/essays/book_projects$ ls
 literary_analysis.docx    book_report.docx
 </pre>
   </div>
@@ -235,8 +235,8 @@ To get out of a directory you're in, we use `cd ..` (note the space between the 
 If I'm in the `book_projects` directory and I want to get back to `essays`, this is what I'd run:
 
 ```
-timo@Tims-MacBook-Pro:~/essays/book_projects$ cd ..
-timo@Tims-MacBook-Pro:~/essays$
+dan@Dans-MacBook-Pro:~/essays/book_projects$ cd ..
+dan@Dans-MacBook-Pro:~/essays$
 ```
 
 Notice that my path no longer includes `book_projects` because I'm outside of that folder now.
@@ -283,14 +283,14 @@ Notice that my path no longer includes `book_projects` because I'm outside of th
 We know how to make directories (or folders) using the `mkdir` command. In order to make files inside of those directories, we use `touch`. `touch` needs to be provided with the name of the file being created. The following commands will create new files called `chapter_1.md` and `chapter_2.md`:
 
 ```
-timo@Tims-MacBook-Pro:~/latest_projects$ touch chapter_1.md
-timo@Tims-MacBook-Pro:~/latest_projects$ touch chapter_2.md
+dan@Dans-MacBook-Pro:~/latest_projects$ touch chapter_1.md
+dan@Dans-MacBook-Pro:~/latest_projects$ touch chapter_2.md
 ```
 
 We don't receive any confirmation that the file was created, but we can use `ls` to see what's inside the directory:
 
 ```
-timo@Tims-MacBook-Pro:~/latest_projects $ ls
+dan@Dans-MacBook-Pro:~/latest_projects $ ls
 chapter_1.md    chapter_2.md
 ```
 <br>
@@ -310,15 +310,15 @@ In the past, you've probably gotten rid of files by using the `Move to trash` bu
 We can remove files from the command line by running the `rm` command. Your current working directory must contain the file you want to remove.
 
 ```
-timo@Tims-MacBook-Pro:~/latest_projects $ ls
+dan@Dans-MacBook-Pro:~/latest_projects $ ls
 chapter_1.md  chapter_2.md
-timo@Tims-MacBook-Pro:~/latest_projects $ rm chapter_1.md
+dan@Dans-MacBook-Pro:~/latest_projects $ rm chapter_1.md
 ```
 
 Again, we don't get a confirmation, but if I were to run `ls` right now, the filename I provided to `rm` no longer appears because it has been removed.
 
 ```
-timo@Tims-MacBook-Pro:~/latest_projects $ ls
+dan@Dans-MacBook-Pro:~/latest_projects $ ls
 chapter_2.md
 ```
 
@@ -338,8 +338,8 @@ We can use `rm` to remove a file, but we use a different command when we're remo
 In order to remove a directory, you must be OUTSIDE of that directory. For example, if I'm inside a `books` directory and I want to remove it, I first need to get out of it using `cd ..`, then use the `rm -rf books`:
 
 ```
-timo@Tims-MacBook-Pro:~/latest_projects/books$ cd ..
-timo@Tims-MacBook-Pro:~/latest_projects$ rm -rf books
+dan@Dans-MacBook-Pro:~/latest_projects/books$ cd ..
+dan@Dans-MacBook-Pro:~/latest_projects$ rm -rf books
 ```
 
 Now when I run `ls`, I will no longer see `books` listed.
