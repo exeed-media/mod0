@@ -390,11 +390,11 @@ In your Terminal, recreate the file structures shown in the diagrams below. Assu
 Record your screen and audio using Loom while completing Challenge #1 _or_ Challenge #2 from the lesson. If you already practiced them once without recording, you can always remove the directory you created the first time to practice again. 
 
 Here are a few things to include in your video: 
-- Show how to use Rectangle to organize your screen with this lesson on one side and your terminal on the other. 
+- Show how to use Rectangle or Fancy Zones to organize your screen with this lesson on one side and your terminal on the other. 
 - Demonstrate how to use informative commands like `ls` and `pwd`.
 - Practice articulating exactly what you are doing every step of the way with technical vocabulary. This might sound something like, "Next, we are going to move into that directory using the command `cd` followed by the directory name."
 - If you make a mistake, fix it live! These videos don't need to be perfectly polished.
 
-**After recording your video, submit the link to your video in the submission form.**
+**After recording your video, submit the link to your video in the discord channel.**
 
 <br><br><br><br><br>
