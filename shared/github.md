@@ -103,44 +103,6 @@ Altogether, the process of connecting a local repository to our remote repositor
 </div>
 <br>
 
-## Common Issues
-
-<!-- Occasionally, the command to push work up will not be successful. When this happens, the user will usually see a message similar to this:
-<img src="./assets/cannot-push.png" alt="Failed to push some refs error">
-
-Almost always, the message tells the user what the problem is and **exactly** what to do.
-
-<div class="s-card s-border-yellow-500">
-  <h3>Reading Error Messages</h3>
-  <p>Read the error message in the screenshot above and be ready to share what you would try if you ran into this error.</p>
-</div>
-<br> -->
-
-Occasionally, the command to push work up will not be successful. When this happens, don't panic. Carefully read the message and see if you can figure out what the problem might be. Take a look at this message below and make a guess about what the problem might be. 
-
-<img src="https://user-images.githubusercontent.com/412339/233181977-72aa6225-6ab0-4486-864b-1c5410711b4b.png" alt="Permission denied error message">
-
-The error message describes the issue clearly. This user does not have access to this GitHub repository. This can happen if you forget to `fork` a repository before `cloning` it to your local machine. The good news is that you can remove a connection and reconnect to another remote repository on **your** account!
-
-1. Check your current git remote origin connection using `git remote -v`.
-1. If you are connected to a remote origin that you do not have access to, remove your connection using `git remote remove origin`.
-1. Check that the git remote origin was removed using `git remote -v`. If you don't get anything in response, you know you aren't connected to a remote repository!
-1. Then you can create a new empty repository on **your** GitHub and connect it to that remote repository. Use the command `git remote add origin [insert SSH key here]` to establish that connection.
-1. Check your remote origin is correct now using `git remote -v`.
-1. Now that you're connected to the correct remote repository, you can run those two commands to establish the main branch and push your work: `git branch -M main` and `git push -u origin main`.
-
-You can see an example of what that process might look like below.
-
-<img src="https://user-images.githubusercontent.com/412339/233184264-5e931040-b2dd-40fe-9162-379c64cbb2d1.png" alt="Using git commands to remove a remote origin and add a new one">
-
-Other common issues we've seen with students include: 
-- Trying to `push` before adding and committing changes
-- Creating a git repo inside of another git repo
-- Initializing git in your home directory instead of the specific directory where you want to track changes
-- Using HTTPS instead of SSH
-
-All of these issues can be corrected. The important thing is to reach out for help sooner rather than later. 
-
 ## Practice
 
 Complete the following exercise to get practice and demonstrate your ability to use Git and GitHub.
