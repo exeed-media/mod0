@@ -59,7 +59,7 @@ There are many ways to create and connect <span class="vocab">local</span> (on y
 
 <br>
 What follows is a diagram that breaks down the anatomy of the `git push -u origin main` command:
-<img src="./assets/command-anatomy.png" alt="Anatomy of git push -u origin main command">
+<img src="https://user-images.githubusercontent.com/412339/233181851-5afd4f91-3fa1-4380-ac05-6baac8629e13.png" alt="Anatomy of git push -u origin main command">
 
 <div class="s-card">
   <h3>Practice</h3>
@@ -118,7 +118,7 @@ Almost always, the message tells the user what the problem is and **exactly** wh
 
 Occasionally, the command to push work up will not be successful. When this happens, don't panic. Carefully read the message and see if you can figure out what the problem might be. Take a look at this message below and make a guess about what the problem might be. 
 
-<img src="./assets/permission-denied.png" alt="Permission denied error message">
+<img src="https://user-images.githubusercontent.com/412339/233181977-72aa6225-6ab0-4486-864b-1c5410711b4b.png" alt="Permission denied error message">
 
 The error message describes the issue clearly. This user does not have access to this GitHub repository. This can happen if you forget to `fork` a repository before `cloning` it to your local machine. The good news is that you can remove a connection and reconnect to another remote repository on **your** account!
 
@@ -131,7 +131,7 @@ The error message describes the issue clearly. This user does not have access to
 
 You can see an example of what that process might look like below.
 
-<img src="./assets/permission-fix.png" alt="Using git commands to remove a remote origin and add a new one">
+<img src="https://user-images.githubusercontent.com/412339/233182073-f51a6563-c2f6-4da9-a92e-8e07fca7754a.png" alt="Using git commands to remove a remote origin and add a new one">
 
 Other common issues we've seen with students include: 
 - Trying to `push` before adding and committing changes
@@ -172,53 +172,5 @@ The diagram below visually shows the difference between forking and cloning a re
 <img src="./assets/fork-and-clone.png" alt="Diagram showing the difference between forking and cloning a repository">
 
 Note that a few steps are a little different when you are cloning down a repository. You don't need to create an empty directory on your local machine when you clone down a repository. You also don't need to initialize git with `git init` if you cloned down the repository.
-
-## More Practice
-
-<div class="s-card">
-  <h3>Challenge 1: Forking & Cloning</h3>
-  <p>Follow the directions below to fork and clone <a target="blank" href="https://github.com/turingschool/m0_github_practice">this pre-existing GitHub repository</a>.</p>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Navigate to where you want to clone down the repo on your local machine.</li>
-    <li>Clone your copy of the repository to your local machine using the command <code>git clone [insert SSH key here]</code>.</li>
-    <li>Open the repo in VS Code.</li>
-    <li>Answer the questions in the <code>github_notes.md</code> file.</li>
-    <li>Add and commit your changes.</li>
-    <li>Push your changes to GitHub and refresh your browser to see those changes reflected in the remote repository.</li>
-  </ol>
-</div>
-<br>
-
-<div class="s-card">
-  <h3>Challenge 2: Forking & Cloning</h3>
-  <p>Work through this prompt independently.</p>
-  <ul>
-    <li>Fork <a target="blank" href="https://github.com/turingschool/m0_github_challenge">this repository</a>.</li>
-    <li>Navigate to where you want to clone down the repo.</li>
-    <li>Clone your copy to your local machine.</li>
-    <li>Make a few changes and commits.</li>
-    <li>Push up your changes.</li>
-    <li>Make a few more changes and commits.</li>
-    <li>Push up your new changes.</li>
-    <li>View the commit history in the GitHub interface.</li>
-  </ul>
-</div>
-<br>
-
-## Check For Understanding
-
-Follow the steps below to demonstrate your understanding of the Git & GitHub workflow. Record your screen and talk through the steps as you go. Submit your video using your submission form.
-
-1. Use keyboard shortcuts to move this browser window to the left side of your screen and your terminal in the top right corner. 
-1. Fork this [repository](https://github.com/turingschool/m0_github_cfu).
-1. Clone your copy of the repository to your local machine.
-1. Open the repository in VS Code. Use a keyboard shortcut to move VS Code to the bottom right corner of your screen.
-1. Create a new file in that directory called `github_cfu.md`. Add some notes about all of the git commands you know in that file. 
-1. Add and commit your work, then push those changes to GitHub.
-1. Now, show how you would remove the remote origin.
-1. Create a new remote repository in GitHub and connect your local repository to that one.
-
-If you have any questions about GitHub as you're working through this challenge, drop them in Slack along with any relevant screenshots.
 
 <br><br><br><br><br>
