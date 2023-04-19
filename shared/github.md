@@ -131,7 +131,7 @@ The error message describes the issue clearly. This user does not have access to
 
 You can see an example of what that process might look like below.
 
-<img src="https://user-images.githubusercontent.com/412339/233182073-f51a6563-c2f6-4da9-a92e-8e07fca7754a.png" alt="Using git commands to remove a remote origin and add a new one">
+<img src="https://user-images.githubusercontent.com/412339/233184264-5e931040-b2dd-40fe-9162-379c64cbb2d1.png" alt="Using git commands to remove a remote origin and add a new one">
 
 Other common issues we've seen with students include: 
 - Trying to `push` before adding and committing changes
