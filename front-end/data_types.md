@@ -64,10 +64,10 @@ In this lesson, we will use 3 of JavaScript's Data Types. A <span class="vocab">
 - <span class="vocab">Number</span> - Any positive or negative number, including 0, whole or decimal
 - <span class="vocab">Boolean</span> - `true` or `false`
 
-To connect to how these data types are used in an application we all have some experience with, consider the steps you took to enroll at Turing in the Populi application:
-- **String** - You provided your email address and it was stored as a string, for example: `"helloworld@gmail.com"`
-- **Number** - You provided your date of birth and the program calculated your age, for example: `37`
-- **Boolean** - Once you paid your deposit, the "paid deposit" field said `true`
+To connect to how these data types are used in an application :
+- **String** - You provide your email address and it was stored as a string, for example: `"helloworld@gmail.com"`
+- **Number** - You provide your date of birth and the program calculates your age, for example: `37`
+- **Boolean** - Once you paid your deposit, the "paid deposit" field says `true`
 
 <div class="s-card">
   <h3>Deciding on a Data Type</h3>
@@ -175,7 +175,7 @@ The Check For Understanding will provide a practice opportunity for this section
 
 ## Check For Understanding
 
-_Complete this CFU **after** you've done the live GitHub lesson._
+_Complete this **after** you've done the GitHub lesson._
 
 Use everything you’ve learned with VS Code, Git, GitHub, Data Types and variables, complete this challenge:
 
@@ -197,6 +197,6 @@ Use everything you’ve learned with VS Code, Git, GitHub, Data Types and variab
 1. Commit your work.
 1. Push your changes to GitHub.
 
-Please submit the link to your GitHub repository in the submission form.
+Please submit the link to your GitHub repository in the Discord channel.
 
 <br><br>
