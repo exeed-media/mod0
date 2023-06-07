@@ -240,10 +240,4 @@ Now that you know about logical operators and `if statements`, let's combine tha
 </div>
 
 
-<br>
-
-## Check For Understanding
-
-<a href="https://github.com/turingschool/m0_fe_conditionals" target="_blank">Follow the directions in the README of this GitHub repository</a>, and submit your fork in the submission form. 
-
 <br><br><br>
