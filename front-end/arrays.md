@@ -33,12 +33,6 @@ As the list of students inevitably changes and grows, this is difficult to maint
 
 An <span class="vocab">Array</span> is a JavaScript Data Type that allows us to store multiple pieces of data in _one_ variable. They can be compared to lists. The Array is an incredibly powerful and necessary Data Type for building web applications.
 
-Thinking back to the Populi platform that helped you enroll at Turing, many Arrays are used to power its functionality:
-
-- **student roster** - list of *all names* in a given cohort
-- **course catalog** - list of *all courses* we offer
-
-Notice that in the previous examples, the items in a given list are all of the _same type_.
 
 ### Array Syntax
 
@@ -76,7 +70,7 @@ To access one element from an array, bracket notation and a number that correspo
 
 Through reading the code snippet in the embdedd replit that follows, one can infer that the first element is in index position 0, and counting increments by 1. (Click the green "Run" button to see the output in the Console at the bottom of the embdedded replit.)
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@turingschool/array-access-els?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@danpariente/array-access-els?lite=true"></iframe>
 
 
 <div class="s-card">
@@ -165,6 +159,6 @@ Create another file in the same directory, name it `self-evaluation.md`. In Mark
 - What questions do you have about Arrays?
 - _Commit your work_.
 
-After you've completed the tasks above, push your work up to a new GitHub repository. Provide the GitHub repository link in the submission form.
+After you've completed the tasks above, push your work up to a new GitHub repository. Provide the GitHub repository link in Discord.
 
 <br><br><br>
