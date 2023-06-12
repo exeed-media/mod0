@@ -21,12 +21,12 @@ Write 1-2 sentences to explain the code snippet below, using as many technical v
 
 ```javascript
 var emails = [
-  "kaitlyn@turing.edu",
-  "justina@turing.edu",
-  "amy@turing.edu",
-  "launa@turing.edu",
-  "nikki@turing.edu",
-  "naomi@turing.edu"
+  "john@solidkraft.com",
+  "bob@solidkraft.com",
+  "amy@solidkraft.com",
+  "alice@solidkraft.com",
+  "nikki@solidkraft.com",
+  "peter@solidkraft.com"
 ];
 ```
 
@@ -37,7 +37,7 @@ Work through the activity that follows to practice reading unfamiliar code and w
 <div class="s-card">
   <h3>Reading a <code>for</code> loop</h3>
   <ul>
-    <li>Open <a href="https://replit.com/@turingschool/for-statements#index.js" target="blank">this replit</a> and click "fork".</li>
+    <li>Open <a href="https://replit.com/@danpariente/for-statements#index.js" target="blank">this replit</a> and click "fork".</li>
     <li>Run the code in the replit. Read through the code for each <code>for</code> statement and identify the portion of the output that belongs with it. <strong>What do you notice? Work to identify which piece of the code corresponds to a change in the output.</strong></li>
     <li>If questions or wonderings such as "I wonder what would happen if we did X instead of Y...?" - there is nothing stopping you from trying that out, and finding the answer right now! You can edit the existing code, copy-and-paste code snippets then modify, or write something out yourself.</li>
   </ul>
@@ -118,7 +118,7 @@ for (var i = 0; i < fruits.length; i++) {
 
 <div class="s-card">
  <h3>Investigating Code</h3>
-  <p>For this task, fork <a href="https://replit.com/@turingschool/for-arrays#index.js" target="blank">this replit</a> and then work through the guided exercise below:</p> 
+  <p>For this task, fork <a href="https://replit.com/@danpariente/for-arrays#index.js" target="blank">this replit</a> and then work through the guided exercise below:</p> 
   <ul>
     <li>Print to the console <code>fruits.length</code> and notice the output, and try to make sense of where that came from. Keep what you learned by doing that in mind, keep or delete that code, and continue.</li>
     <li>Change <code>fruits.length</code> to <code>3</code>. Re-run the code - has the output changed?</li>
@@ -180,9 +180,6 @@ Use a `for` statement to solve each problem. You can do this work in the place t
 </div>
 <br>
 
-## Check For Understanding
-
-[Follow the directions in the README of this GitHub repository](https://github.com/turingschool/m0_fe_for), and submit your fork in the submission form.
 
 <br>
 <br>
