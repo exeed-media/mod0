@@ -180,6 +180,7 @@ Use a `for` statement to solve each problem. You can do this work in the place t
 </div>
 <br>
 
+[Follow the directions in the README of this GitHub repository](https://github.com/solidkraft/challenges_mod0), and submit your fork in Discord.
 
 <br>
 <br>
