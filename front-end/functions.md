@@ -25,7 +25,7 @@ title: Functions
 
 <div class="s-card">
   <h3>Exploration: PART 1</h3> 
-  <p>Fork, then run the code <a href="https://replit.com/@turingschool/m0-built-in-methods#index.js" target="blank">in this replit</a> and observe the output.</p>
+  <p>Fork, then run the code <a href="https://replit.com/@danpariente/m0-built-in-methods#index.js" target="blank">in this replit</a> and observe the output.</p>
   <p><strong>Discuss:</strong> How did each line of code, produce each respective line of output? Which parts make sense, and which are confusing?</p>
 </div>
 <br>
@@ -47,7 +47,7 @@ In this particular example, the utility of the `startsWith()` method is to deter
 <br>
 <div class="s-card">
   <h3>Exploration: PART 2</h3> 
-  <p>In <a href="https://replit.com/@turingschool/m0-built-in-methods#index.js" target="blank">the same replit</a> from the first exploration, comment <em>out</em> the code from Part 1, and <em>uncomment</em> the code under Part 2.</p>
+  <p>In <a href="https://replit.com/@danpariente/m0-built-in-methods#index.js" target="blank">the same replit</a> from the first exploration, comment <em>out</em> the code from Part 1, and <em>uncomment</em> the code under Part 2.</p>
   <ul>
     <li>Run the code.</li>
     <li>Discuss: What is different about this from the first set of method calls? How did each line of code, produce each respective line of output? Which parts make sense, and which are confusing?</li>
@@ -67,7 +67,7 @@ console.log(newString.toUpperCase());
 <br>
 <div class="s-card">
   <h3>Exploration: PART 3</h3> 
-  <p>In <a href="https://replit.com/@turingschool/m0-built-in-methods#index.js" target="blank">the same replit</a>, comment <em>out</em> the code from Part 2, and <em>uncomment</em> the variable declarations and first method call under Part 3.</p>
+  <p>In <a href="https://replit.com/@danpariente/m0-built-in-methods#index.js" target="blank">the same replit</a>, comment <em>out</em> the code from Part 2, and <em>uncomment</em> the variable declarations and first method call under Part 3.</p>
   <ul>
     <li>Run the code and read the error message carefully. Work to make sense of what the problem is.</li>
     <li>Comment out that method call, and uncomment the next one. Run the code and read the error message carefully. Work to make sense of what the problem is.</li>
@@ -135,7 +135,7 @@ Examples of function names that follow best practices:
 <!-- <br>
 <div class="s-card">
   <h3>Play Around Independently</h3>
-  <p><a href="https://replit.com/@turingschool/m0-functions-intro#index.js" target="blank">Fork this replit</a> and run the code.</p>
+  <p><a href="https://replit.com/@danpariente/m0-functions-intro#index.js" target="blank">Fork this replit</a> and run the code.</p>
   <p>Change the String inside the <code>console.log</code> statement. Run the code.</p>
   <p>Add two more <code>console.log</code> statements below the first one. Run the code.</p>
   <p>The code currently calls the function one time. Call the function three times. Run the code.</p>
@@ -330,7 +330,7 @@ console.log(sum2);
 
 ## Check For Understanding
 
-Complete the work <a href="https://github.com/turingschool/m0_fe_functions" target="_blank">in the CFU repository</a> and submit your work using the submission form.
+Complete the work <a href="https://github.com/solidkraft/m0_functions" target="_blank">in the CFU repository</a> and submit your work using Discord.
 
 <br>
 <br>
