@@ -189,8 +189,8 @@ Let's expand this example to any kind of machine. We give the machine the raw ma
   <h3>Waterfall</h3> 
   <p>Look at the function call below and make a guess about how this might be different from the previous method example.</p>
   <pre>
-  greetATexan("Kaitlyn");
-  // => "Howdy, Kaitlyn!"</pre>
+  greetATexan("Alice");
+  // => "Howdy, Alice!"</pre>
   <p>Type your answers in the chat and be ready to submit when it's time!</p>
 </div>
 <br>
@@ -209,14 +209,14 @@ function greetATexan(name) {
   return `Howdy, ${name}!`;
 }
 
-console.log(greetATexan("Kaitlyn"));
-// => "Howdy, Kaitlyn!"
+console.log(greetATexan("Alice"));
+// => "Howdy, Alice!"
 
-console.log(greetATexan("Brian"));
-// => "Howdy, Brian!"
+console.log(greetATexan("Bob"));
+// => "Howdy, Bob!"
 ```
 
-> **Note:** You'll notice that we are using the `console.log()` statement with the function call this time. This allows us to also **see** the return value of the `greetATexan` function printed to the console, but it is not necessary. The code `greetATexan("Kaitlyn")` by itself does return the string "Howdy, Kaitlyn!", but if we want to see it printed in the console, we will need to use `console.log()` along with the function call.
+> **Note:** You'll notice that we are using the `console.log()` statement with the function call this time. This allows us to also **see** the return value of the `greetATexan` function printed to the console, but it is not necessary. The code `greetATexan("Alice")` by itself does return the string "Howdy, Alice!", but if we want to see it printed in the console, we will need to use `console.log()` along with the function call.
 
 The following code snippet illustrates a function definition and call that involves 2 pieces of data, both Numbers.
 
