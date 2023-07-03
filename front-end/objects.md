@@ -68,7 +68,7 @@ var student1 = {
   <p>Complete the following work in a replit or a new JavaScript file in VS Code:</p>
   <ol>
     <li>For one of the examples in the previous activity that you selected would be best suited for an Object, declare a variable that stores an Object with some (possibly fake) data.</li>
-    <li>Declare a variable that stores an Object that represents <a href="https://twitter.com/MechEngSanchez/status/1485947286396014593" target="blank">this tweet</a>.</li>
+    <li>Declare a variable that stores an Object that represents <a href="https://twitter.com/shouldhaveanima/status/1675623029035110401" target="blank">this tweet</a>.</li>
   </ol>
   <p>Take a screenshot or save in this work in a file and be ready to share it in Stand Up tomorrow!</p>
 </div>
@@ -146,7 +146,7 @@ Note that when we use the `Object.keys` and `Object.values` methods, the return 
 
 ## Check For Understanding
 
-Complete the work <a href="https://github.com/turingschool/m0_fe_objects" target="_blank">in the CFU repository</a> and submit your work using the submission form.
+Complete the work <a href="https://github.com/solidkraft/m0_objects" target="_blank">in the repository</a> and submit your work using Discord.
 
 <br>
 <br>
