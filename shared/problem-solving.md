@@ -45,7 +45,7 @@ While we've all used Google a time or two, there are ways to make your search mo
 If the solution you're looking for isn't in the first two pages of results, it's probably not there. You might try reframing your search terms or use another resource.
 
 ## Problem Solving in Action
-Let's work through those steps together, using Challenge 1. Open the starter kit for your program (<a href="https://replit.com/@danpariente/problem-solving-starter-kit" target="blank">FE</a> and make a copy (fork) to follow along in replit.
+Let's work through those steps together, using Challenge 1. Open the starter kit for your program (<a href="https://replit.com/@danpariente/problem-solving#index.js" target="blank">FE</a> and make a copy (fork) to follow along in replit.
 
 <div class="s-card">
   <h3>Challenge 1</h3>
