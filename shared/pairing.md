@@ -27,7 +27,7 @@ There are many styles of pairing. In Mod 0, we will introduce and focus on the D
 
 <div class="s-card">
   <h3>Watch an Example</h3>
-  <p><a href="https://drive.google.com/file/d/1eloTxUXGM8Xoig-vslytSbZRKDuJApXG/view?usp=sharing" target="blank">This video shows two developers pairing on a simple task you probably did earlier today</a></p>
+  <p><a href="https://drive.google.com/file/d/1eloTxUXGM8Xoig-vslytSbZRKDuJApXG/view?usp=sharing" target="blank">This video shows two developers pairing on a simple task</a></p>
   <p>Watch it, and reflect on how they interacted, and what they each did in the Driver and Navigator role.</p>
 </div>
 <br>
