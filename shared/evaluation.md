@@ -14,7 +14,7 @@ Note: Some language used in these prompts might be new to you. This is intention
   <h3>Exercise 1: Objects</h3>
   <p>For this exercise, use a Git workflow.</p>
   <ul>
-    <li>In a mod_0 directoryCreate a new directory called <code>evaluation</code>. Inside of that directory, touch a file called <code>objectLiteralPractice</code>. Initialize a Git repository.</li>
+    <li>In a mod_0 directory, create a new directory called <code>evaluation</code>. Inside of that directory, touch a file called <code>objectLiteralPractice</code>. Initialize a Git repository.</li>
     <li>Define a variable named <code>person</code> that stores an Object Literal. This Object should have 4 key-value pairs; you choose the key and use appropriate Data Types for the values.</li>
     <li>Write code to print the entire Object.</li>
     <li>Write code to print one of the values based on the key.</li>
@@ -30,7 +30,7 @@ Note: Some language used in these prompts might be new to you. This is intention
 <div class="s-card">
   <h3>Pairing Exercise 2: For Statements</h3>
   <ul>
-    <li>In your mod_0 directory, create a new directory called <code>evaluation_part_2</code>. Inside of that directory, touch a file called <code>friends</code>. Initialize a Git repository.</li>
+    <li>In your evaluation directory, create a new directory called <code>pairing</code>. Inside of that directory, touch a file called <code>friends</code>. Initialize a Git repository.</li>
     <li>Define a variable that stores an Array containing 8 Numbers between 1 and 100.</li>
     <li>Write a program that checks each Number, and prints out only those above 30.</li>
     <li>Run the file in the Terminal to verify your code is working as expected.</li>
@@ -45,7 +45,7 @@ Note: Some language used in these prompts might be new to you. This is intention
 <div class="s-card">
   <h3>Exercise 3: Guess the Number Game</h3>
   <ul>
-    <li>In your mod_0 directory, create a new directory called <code>evaluation_part_3</code>. Inside of that directory, touch a file called <code>guess_number_game</code>. Initialize a Git repository.</li>
+    <li>In your evaluation directory, create a new directory called <code>game</code>. Inside the directory touch a file called <code>guess_number</code>. Initialize a Git repository.</li>
     <li>The computer picks a random number in range between 1 and 10 and prompts the player to guess that number. Each time the player guesses, the computer should give the player a hint as to whether the number is too high or too low. The computer should also keep track of the number of guesses. Once the player guesses the correct number, the computer should present the number of guesses and ask if the player would like to play again.</li>
     <li>Run the file in the Terminal to verify your code is working as expected.</li>
     <li>Create a GitHub repository.</li>
