@@ -6,9 +6,9 @@ title: Evaluation M0
 
 ## Exercises
 
-There are 2 sets of exercises for this evaluation. Please record the first exercise using Loom.
+There are 3 sets of exercises for this evaluation. Record your screen and audio using Loom while completing Exercise #1 from the evaluation articulating exactly what you are doing every step of the way with technical vocabulary.
 
-Note: Some language used in these prompts might be new to you. This is intentional and designed to support you in being flexible while reading documentation and specifications (as that is an essential skill for a developer to have). Use your context clues, make educated guesses with the knowledge you have, and if you are completely unsure “does it mean X or Y?” - do the exercise both ways x and y
+Note: Some language used in these prompts might be new to you. This is intentional and designed to support you in being flexible while reading documentation and specifications (as that is an essential skill for a developer to have). Use your context clues, make educated guesses with the knowledge you have.
 
 <div class="s-card">
   <h3>Exercise 1: Objects</h3>
@@ -51,7 +51,7 @@ Note: Some language used in these prompts might be new to you. This is intention
     <li>Create a GitHub repository.</li>
     <li>Push your work from the local repository to the remote repository.</li>    
   </ul>
-  <code>
+  ```
     Example Output:
     Let's play Guess the Number.
     I have my number. What's your guess?
@@ -61,17 +61,17 @@ Note: Some language used in these prompts might be new to you. This is intention
     You got it in 3 guesses!
     Play again? n
     Goodbye!
-  </code>
+  ```
 </div>
 <br>
 
 ## Reflection
 
 Take a moment to reflect independently after this exercise.
-- In what areas do you feel confident and in what areas might you need to improve before you move on?
+- In what areas do you feel confident and in what areas might you need to improve before you continue?
 - What is one step you could take to prepare for your next module?
 - What progress have you made on the areas of growth you identified?
 
-There is nothing to submit after completing this exercise, but take note of your progress and any areas in which you would like to continue growing.
+There is nothing to submit after completing this reflection, but take note of your progress and any areas in which you would like to continue growing.
 
 <br><br><br><br><br>
