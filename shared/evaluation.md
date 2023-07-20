@@ -50,19 +50,19 @@ Note: Some language used in these prompts might be new to you. This is intention
     <li>Run the file in the Terminal to verify your code is working as expected.</li>
     <li>Create a GitHub repository.</li>
     <li>Push your work from the local repository to the remote repository.</li>    
-  </ul>
-  ```
-    Example Output:
-    Let's play Guess the Number.
-    I have my number. What's your guess?
-    1
-    Too low.  Guess again: 5
-    Too high. Guess again: 2
-    You got it in 3 guesses!
-    Play again? n
-    Goodbye!
-  ```
+  </ul>  
 </div>
+```
+  Example Output:
+  Let's play Guess the Number.
+  I have my number. What's your guess?
+  1
+  Too low.  Guess again: 5
+  Too high. Guess again: 2
+  You got it in 3 guesses!
+  Play again? n
+  Goodbye!
+```
 <br>
 
 ## Reflection
